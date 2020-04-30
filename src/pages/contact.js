@@ -1,5 +1,6 @@
 import React from "react"
 import Layout from "../components/Layout"
+import svg from "../images/symbol.svg"
 
 export default () => {
     return (
@@ -14,7 +15,7 @@ export default () => {
             <a href="https://github.com/danusem" target="_blank" rel="noopener noreferrer">Github</a>
             <br></br>
             <br></br>
-            <a href="DanUsemResume.pdf" download>Resume <span role="img">⬇</span></a>
+            <a style={{ display:"flex", textDecoration:"none" }} href="DanUsemResume.pdf" download>Resume &nbsp; <img src={svg} style={{ height:"1rem" }} alt="logo"/></a>
         </Layout>
     )
 }
