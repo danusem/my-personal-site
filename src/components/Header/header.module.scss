@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    ul {
+        display: flex;
+        list-style: none;
+        li {
+            margin: 1rem;
+            a {
+                text-decoration: none;
+                color:slategray;
+            }
+            
+        }
+    }
+}
