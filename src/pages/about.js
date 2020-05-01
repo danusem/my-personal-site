@@ -1,13 +1,13 @@
 import React from "react"
-import { Link } from "gatsby"
 import Layout from "../components/Layout"
 
 export default () => {
     return (
         <Layout>
-            <h1>About</h1>
-            <p>I'm a Software Engineer with 8 years experience in the tech startup world. Feel free to reach out with any questions.</p>
-            <Link to="/contact">Contact Me</Link>
+            <h1>About Me</h1>
+            <p>Hello! I'm Dan, a software engineer based in Chicago. I just graduated from General Assembly's Software Engineering Immersive and I'm eager to start this next chapter in my career!</p>
+            <p>Beyond software I also have 8 years of experience in the tech startup world.</p>
+            <p>Feel free to reach out with any additional questions.</p>
         </Layout>
     )
 }

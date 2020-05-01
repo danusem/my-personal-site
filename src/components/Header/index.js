@@ -6,7 +6,7 @@ import styles from "./header.module.scss"
 export default () => {
     return (
         <header className={styles.header}>
-            <h1>Dan Usem</h1>
+            <h1 style={{ margin:"1rem" }}>Dan Usem</h1>
             <ul>
                 <li>
                     <Link to="/">Home</Link>

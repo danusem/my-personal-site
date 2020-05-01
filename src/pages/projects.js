@@ -10,11 +10,11 @@ export default () => {
             <img src="https://github.com/danusem/feedthefrontline/blob/master/main/static/images/Homepage.png?raw=true" alt="Homepage" />
             <h5><a href="http://feed-the-frontline.herokuapp.com/" target="_blank" rel="noopener noreferrer">Launch Project</a></h5>
             <h3>Xplor</h3>
-            <p>Xplor is a travel app that encourages people to travel more and get out there and explore the world</p>
+            <p>A web app built on a MERN stack that encourages people to travel more and get out there and explore the world</p>
             <img src="https://raw.githubusercontent.com/danusem/Xplor/master/public/images/Splash-Screen.png?raw=true" alt="Splash Screen" />
             <h5><a href="https://xplor-app.herokuapp.com/" target="_blank" rel="noopener noreferrer">Launch Project</a></h5>
             <h3>Music Discovery</h3>
-            <p>A CRUD web app built using MongoDB, Express, EJS, Node.js & Materialize that allows users to track music</p>
+            <p>A web app built using Express, Node.js, MongoDB and Materialize that allows users to keep track of and discover new music</p>
             <img src="https://github.com/danusem/Music-Discovery-App/blob/master/public/images/Splash-Screen.png?raw=true" alt="Music" />
             <h5><a href="https://music-discovery-application.herokuapp.com/" target="_blank" rel="noopener noreferrer">Launch Project</a></h5>
          </Layout>
